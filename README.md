@@ -45,9 +45,13 @@ while(true)
 ```
 
 # Hyperlinks
-Link to another website using \[text\]\(https:\\example.com\)
+For a simple hyperlink, just past it.
 
-[Link to Wikipedia Game article](https://en.wikipedia.org/wiki/Game)
+https://en.wikipedia.org/wiki/Game
+
+For named hyperlinks, use this format: \[text\]\(url)
+
+[Super secret hyperlink](https://en.wikipedia.org/wiki/Game)
 
 # Media
 Link to media,  using \!\[text\]\(path/to/media\)
