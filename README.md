@@ -87,8 +87,9 @@ ___
 And yet again!
 
 # Colours
-Mardkown does not natively support text color. If you really need it, you must use HTML syntax. However, GitHub tends to strip out HTML
-<span style="color:red;">red</span>.
+Mardkown does not natively support text color. If you really need it, you must use HTML syntax. However, GitHub tends to strip out HTML.
+
+<span style="color:red;">Red text</span>.
 
 # Escape Sequence
 Use \\ if you need a character but it gets interpreted as Markdown.
