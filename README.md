@@ -60,14 +60,16 @@ We can use relative (local to repository) or absolute (full, typically for URL) 
 
 ## Absolute Path
 Useful for linking to media via URLs.
+
 ![Image of very old game](https://upload.wikimedia.org/wikipedia/commons/0/0d/Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer%2C_ca._1390-1353_B.C.E.%2C49.56a-b.jpg)
 
 ## Relative Path
 Here's some media in this GitHub repository.
-![TBD relative img]()
+
+![TBD relative img](./lady-bacon.png)
 
 ## Broken Link
-When media cannot be found, it'll look like this (link intentionally missing extension).
+When media cannot be found, it'll look like this (link intentionally missing extension `.jpg`).
 
 ![Image of very old game](https://upload.wikimedia.org/wikipedia/commons/0/0d/Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer%2C_ca._1390-1353_B.C.E.%2C49.56a-b)
 
